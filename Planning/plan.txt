@@ -1,0 +1,34 @@
+
+---------------------------------------------------------------
+Plan
+---------------------------------------------------------------
+
+(This is being written out to be entered into the blog)
+
+
+-----------------------
+Bluetooth Communication
+-----------------------
+
+
+Arduino end
+-----------
+
+- Send
+- Receive
+
+IOS end
+-------
+
+- Discovery
+-- Load the peripheral
+-- Start searching
+-- Found peer - delegate method
+--- User Selection
+
+- Connections
+-- Start connection with chosen peer
+
+- Messaging
+-- Parse message
+-- Encode/decode message
